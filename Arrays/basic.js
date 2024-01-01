@@ -1,7 +1,6 @@
 const a1 = [1, 2, 3];
 /*
 console.log(a1[0]);
-
 console.log(a1);
 a1.push('a','b','c') // adds to end end
 a1.pop() // removes last element
